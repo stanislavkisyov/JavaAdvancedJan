@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9ff679-0ecd-4fed-8097-e0a8f362ad02" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/lab/collections/P_01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lab/collections/P_02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lab/collections/P_03.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +16,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P_01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P_01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab/collections/P_01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P_02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/collections/P_02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P_03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab/collections/P_03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="24" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,6 +121,8 @@
         <option value="$PROJECT_DIR$/src/exercise/stringProcessing/P_13.java" />
         <option value="$PROJECT_DIR$/src/exercise/stringProcessing/P_14.java" />
         <option value="$PROJECT_DIR$/src/lab/collections/P_01.java" />
+        <option value="$PROJECT_DIR$/src/lab/collections/P_02.java" />
+        <option value="$PROJECT_DIR$/src/lab/collections/P_03.java" />
       </list>
     </option>
   </component>
@@ -152,6 +179,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaAdvancedJan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAdvancedJan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P_01">
+  <component name="RunManager" selected="Application.P_03">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -208,14 +242,14 @@
       <module name="JavaAdvancedJan" />
       <envs />
     </configuration>
-    <configuration name="P_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="P_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="exercise.stringProcessing.*" />
+          <option name="PATTERN" value="lab.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="exercise.stringProcessing.P_10" />
+      <option name="MAIN_CLASS_NAME" value="lab.collections.P_02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -227,14 +261,14 @@
       <module name="JavaAdvancedJan" />
       <envs />
     </configuration>
-    <configuration name="P_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="P_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="exercise.stringProcessing.*" />
+          <option name="PATTERN" value="lab.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="exercise.stringProcessing.P_12" />
+      <option name="MAIN_CLASS_NAME" value="lab.collections.P_03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -359,19 +393,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P_10" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P_12" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P_13" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P_14" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P_01" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P_13" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P_14" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P_01" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P_02" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P_03" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P_01" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P_14" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P_13" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P_12" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P_10" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P_03" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P_02" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P_01" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P_14" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P_13" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +433,12 @@
       <workItem from="1516956303708" duration="15000" />
       <workItem from="1517143853476" duration="16799000" />
       <workItem from="1517302669561" duration="10563000" />
-      <workItem from="1517429985066" duration="687000" />
+      <workItem from="1517429985066" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62136000" />
+    <option name="totallyTimeSpent" value="63811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,29 +547,21 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab/collections/P_02.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="52" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab/introToJava/P_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/introToJava/P_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab/introToJava/P_06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -751,7 +777,7 @@
         <state relative-caret-position="285">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -851,7 +877,7 @@
         <state relative-caret-position="399">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -861,7 +887,7 @@
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -879,7 +905,7 @@
         <state relative-caret-position="608">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -889,7 +915,7 @@
         <state relative-caret-position="342">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -909,8 +935,8 @@
         <state relative-caret-position="266">
           <caret line="589" column="13" lean-forward="false" selection-start-line="589" selection-start-column="13" selection-end-line="589" selection-end-column="13" />
           <folding>
-            <element signature="e#19176#19177#0" expanded="true" />
-            <element signature="e#19212#19213#0" expanded="true" />
+            <element signature="e#19176#19177#0" expanded="false" />
+            <element signature="e#19212#19213#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -919,6 +945,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/collections/P_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/collections/P_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
