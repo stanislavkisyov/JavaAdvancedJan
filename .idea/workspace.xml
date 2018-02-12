@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9ff679-0ecd-4fed-8097-e0a8f362ad02" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_01Little_Alchemy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/resources/02. Little Alchemy_Условие.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/resources/03. V-Logger_Условие.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/resources/04. Regular Extensions_Условие.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/P_01Earthquake.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/P_02Ascend.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/P_03HighScore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/resources/02. Earthquake_Условие.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/resources/03. Ascent_Условие.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exam/exam_Preparation_I/resources/04. Highscore_Условие.docx" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java" afterPath="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +20,8 @@
       <file leaf-file-name="P_01Little_Alchemy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_01Little_Alchemy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,12 +29,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="P_03HighScore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exam/exam_Preparation_I/P_03HighScore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="P_02V_Logger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="295">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/exercise/stringProcessing/P_13.java" />
         <option value="$PROJECT_DIR$/src/exercise/stringProcessing/P_14.java" />
         <option value="$PROJECT_DIR$/src/lab/collections/P_01.java" />
         <option value="$PROJECT_DIR$/src/lab/collections/P_02.java" />
@@ -126,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/exam/exam_Preparation_I/P_02Ascend.java" />
         <option value="$PROJECT_DIR$/src/exam/exam_Preparation_I/P_03HighScore.java" />
         <option value="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_01Little_Alchemy.java" />
+        <option value="$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java" />
       </list>
     </option>
   </component>
@@ -211,6 +212,14 @@
             </path>
             <path>
               <item name="JavaAdvancedJan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAdvancedJan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_22_Oct_2017" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvancedJan" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -248,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P_01Little_Alchemy">
+  <component name="RunManager" selected="Application.P_02V_Logger">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -313,14 +322,14 @@
       <module name="JavaAdvancedJan" />
       <envs />
     </configuration>
-    <configuration name="P_03HighScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="P_02V_Logger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="exam.exam_Preparation_I.*" />
+          <option name="PATTERN" value="exam.exam_22_Oct_2017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="exam.exam_Preparation_I.P_03HighScore" />
+      <option name="MAIN_CLASS_NAME" value="exam.exam_22_Oct_2017.P_02V_Logger" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -332,14 +341,14 @@
       <module name="JavaAdvancedJan" />
       <envs />
     </configuration>
-    <configuration name="P_11Students_Joined_to_Specialties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="P_03HighScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="exercise.stream_API.*" />
+          <option name="PATTERN" value="exam.exam_Preparation_I.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="exercise.stream_API.P_11Students_Joined_to_Specialties" />
+      <option name="MAIN_CLASS_NAME" value="exam.exam_Preparation_I.P_03HighScore" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -426,19 +435,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P_11Students_Joined_to_Specialties" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P_01Earthquake" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P_02Ascend" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P_03HighScore" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P_01Little_Alchemy" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P_01Earthquake" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P_02Ascend" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P_03HighScore" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P_01Little_Alchemy" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P_02V_Logger" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P_01Little_Alchemy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P_03HighScore" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P_02Ascend" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P_01Earthquake" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P_11Students_Joined_to_Specialties" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P_02V_Logger" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P_01Little_Alchemy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P_03HighScore" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P_02Ascend" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P_01Earthquake" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +482,12 @@
       <workItem from="1517990409104" duration="14680000" />
       <workItem from="1518087276389" duration="15129000" />
       <workItem from="1518184799122" duration="3058000" />
-      <workItem from="1518427120415" duration="289000" />
+      <workItem from="1518427120415" duration="9782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156485000" />
+    <option name="totallyTimeSpent" value="165978000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,32 +500,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736573" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40870616" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5933504" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40664962" sideWeight="0.49427754" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6585678" sideWeight="0.49427754" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2067239" sideWeight="0.4948849" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21459228" sideWeight="0.4948849" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20386267" sideWeight="0.5051151" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59462917" sideWeight="0.49427754" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5933504" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736573" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -682,7 +692,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="142" />
+      <option name="time" value="143" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -746,6 +756,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,29 +1053,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exam/exam_Preparation_I/P_03HighScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_01/Little_Alchemy.java" />
     <entry file="file://$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_01Little_Alchemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam/exam_Preparation_I/P_03HighScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exam/exam_22_Oct_2017/P_02V_Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="295">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
